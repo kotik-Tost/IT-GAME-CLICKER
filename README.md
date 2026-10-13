@@ -1,6 +1,6 @@
 # 🌐 Net Clicker
 
-![Version](https://img.shields.io/badge/version-1.1-blue)
+![Version](https://img.shields.io/badge/version-1.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Language](https://img.shields.io/badge/language-C%2B%2B17-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
